@@ -39,7 +39,6 @@ brew install htop                # Monitor de processos melhorado
 brew install lsof                # Lista arquivos abertos (já incluso no macOS)
 
 # Ferramentas avançadas
-brew install nmap                # Scanner de rede e vulnerabilidades
 brew install masscan            # Scanner de portas de alta velocidade
 brew install zmap               # Scanner de rede para toda a Internet
 ```
